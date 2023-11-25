@@ -11,3 +11,9 @@ Este algoritmo realiza a previsão aproximada dos valores das casas em Boston co
 
 **2_simulador.ipynb**
 - Através do tratamento e análise dos códigos anteriores, esse código interpreta informações de novas casas fictícias e informa o preço aproximado da casa em US$ com (baseando-se na tabela de dados disponível) 83.15% de coeficiente de determinação médio.
+
+**housing.csv**
+- Dados para análise: imóveis em boston
+
+**dependente.csv & independente.csv**
+- Dados separados em dependentes e independentes
